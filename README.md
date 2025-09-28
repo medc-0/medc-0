@@ -24,7 +24,9 @@
 ![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![c++](https://img.shields.io/badge/c++-black?style=flat-square&logo=c++)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
+![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift)
+![dart](https://img.shields.io/badge/dart-black?style=flat-square&logo=dart)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies & Frameworks
