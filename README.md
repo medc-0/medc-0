@@ -21,11 +21,11 @@
 Hi, I’m **Omed** — a passionate **software developer** and **student** from Germany 🇩🇪.  
 I love building modern web, mobile, and desktop applications with a focus on clean code and elegant design.
 
-╰┈➤ Currently exploring:
+## ✦ Currently exploring:
 - Backend systems with **Python** and **Java**  
 - Fullstack development using **React**, **Prisma**, and **PostgreSQL**
 
-📬 Open for collaboration & opportunities — feel free to reach out!
+ # ✦ Open for collaboration & opportunities — feel free to reach out! ✦
 
 ---
 
@@ -76,7 +76,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 ---
 
-## ╰┈➤ GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=medc-0&hide_border=true&theme=dark" />
