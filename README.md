@@ -16,12 +16,12 @@
 
 ---
 
-## 👋 About Me
+## ╰┈➤ About Me
 
 Hi, I’m **Omed** — a passionate **software developer** and **student** from Germany 🇩🇪.  
 I love building modern web, mobile, and desktop applications with a focus on clean code and elegant design.
 
-💡 Currently exploring:
+╰┈➤ Currently exploring:
 - Backend systems with **Python** and **Java**  
 - Fullstack development using **React**, **Prisma**, and **PostgreSQL**
 
@@ -31,7 +31,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 ## Tech Stacks
 
-### 🧩 Languages
+### ╰┈➤ Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
@@ -43,7 +43,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 ![dart](https://img.shields.io/badge/dart-black?style=flat-square&logo=dart)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
-### 🧱 Frameworks & Libraries
+### ╰┈➤ Frameworks & Libraries
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
@@ -58,7 +58,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 ![socket.io](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 
-### ⚙️ DevOps & Tools
+### ╰┈➤ DevOps & Tools
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
@@ -76,7 +76,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 ---
 
-## 📊 GitHub Stats
+## ╰┈➤ GitHub Stats
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=medc-0&hide_border=true&theme=dark" />
