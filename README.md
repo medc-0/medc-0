@@ -93,7 +93,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 ## ⭐ My Projects
 
 > 🛠️ *Work in progress — projects will be added soon! Stay tuned.*
-
+<!-- Project Summmary -->
 <details>
   <summary><b>🛡️ Discord</b></summary>
   <p align="center">Coming soon...</p>
