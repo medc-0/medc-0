@@ -33,9 +33,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 ### ╰┈➤ Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
-![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
