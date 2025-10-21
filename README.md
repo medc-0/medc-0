@@ -99,7 +99,15 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 <details>
   <summary><b>🌐 Web Apps</b></summary>
-  <p align="center">Coming soon...</p>
+   <br/>
+  <p align="center">
+    <a href="https://github.com/medc-0/Educards-flashcards">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Educards-flashcards&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/medc-0/PERN-Modern-Store">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=PERN-Modern-Store&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
 </details>
 
 <details>
