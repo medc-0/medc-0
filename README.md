@@ -36,9 +36,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
 ![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift)
-![dart](https://img.shields.io/badge/dart-black?style=flat-square&logo=dart)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### ╰┈➤ Frameworks & Libraries
@@ -90,7 +88,6 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 ## ⭐ My Projects
 
-> 🛠️ *Work in progress — projects will be added soon! Stay tuned.*
 <!-- Project Summmary -->
 <details>
   <summary><b>🛡️ Discord</b></summary>
@@ -121,8 +118,16 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 </details>
 
 <details>
-  <summary><b>⚙️ DevOps</b></summary>
-  <p align="center">Coming soon...</p>
+  <summary><b>⚙️ CLI'S</b></summary>
+    <br/>
+  <p align="center">
+    <a href="https://github.com/medc-0/Devradar-cli">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Devradar-cli&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/medc-0/Sysmentor-CLI">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Sysmentor-CLI&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
 </details>
 
 <details>
