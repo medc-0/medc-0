@@ -93,11 +93,11 @@ I love building modern web, mobile, and desktop applications with a focus on cle
   <summary><b>🛡️ Discord</b></summary>
      <br/>
   <p align="center">
-    <a href="https://github.com/medc-0/global-skill-bot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=global-skill-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/medc-0/global-skillbot-discord">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=global-skillbot-discord&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
-    <a href="https://github.com/medc-0/Counting-bot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Counting-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    <a href="https://github.com/medc-0/Discord-Counting-bot">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Discord-Counting-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>
