@@ -36,6 +36,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/c++-black?style=flat-square&logo=c++)
 ![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
