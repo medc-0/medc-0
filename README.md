@@ -18,11 +18,11 @@
 
 ## ╰┈➤ About Me
 
-Hi, I’m **Omed** — a passionate **software developer** and **student** from Germany 🇩🇪.  
+Hi, I’m **Omed** a passionate **software developer** and **student** from Germany 🇩🇪.  
 I love building modern web, mobile, and desktop applications with a focus on clean code and elegant design.
 
 ## ✦ Currently exploring:
-- Backend systems with **Python** and **Java**  
+- low-level Programming with **C++**, **C** 
 - Fullstack development using **React**, **Prisma**, and **PostgreSQL**
 
  # ✦ Open for collaboration & opportunities — feel free to reach out! ✦
