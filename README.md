@@ -18,7 +18,7 @@
 
 ## ╰┈➤ About Me
 
-Hi, I’m **Omed** a passionate **software developer** and **student** from Germany 🇩🇪.  
+Hi, I’m **Omed** a passionate **software developer** and **student** from Germany.  
 I love building modern web, mobile, and desktop applications with a focus on clean code and elegant design.
 
 ## ✦ Currently exploring:
