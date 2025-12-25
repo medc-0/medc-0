@@ -2,8 +2,9 @@
 
 <!-- HERO -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=38&duration=3500&pause=600&color=9CA3AF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=Hi%2C+I'm+Omed.;Frontend+developer+with+systems+curiosity.;JavaScript%2C+TypeScript%2C+React+%7C+C%2C+C%2B%2B%2C+Assembly"
-  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=38&duration=3500&pause=600&color=9CA3AF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=180&lines=Hi%2C+I'm+Omed.;Frontend+developer+with+systems+curiosity.;JavaScript+TypeScript+React+%7C+C%2C+C%2B%2B%2C+Assembly"
+width="100%"
+height = "100%"
 />
 
 <br />
@@ -28,15 +29,15 @@
 I’m **Omed**, a frontend-focused developer and student based in Germany.
 
 I mainly build modern web interfaces using **JavaScript / TypeScript**, React, and Tailwind CSS.  
-Outside of frontend work, I like going lower-level with **C, C++, Assembly**, and **Python** to better understand how things work under the hood.
+Outside of frontend work, I like going lower level with **C, C++, Assembly**, and **Python** to better understand how things work under the hood.
 
-I enjoy clean code, solid fundamentals, and learning by building.
+I enjoy writing code, and learning by building.
 
 ---
 
 ## What I’m working on
 
-<pre>
+```
 const omed = {
   focus: "frontend development",
   mainStack: ["TypeScript", "React", "Tailwind CSS"],
@@ -44,7 +45,7 @@ const omed = {
   interests: ["systems", "performance", "architecture"],
   mindset: "learn by building"
 };
-</pre>
+```
 
 ---
 
@@ -119,5 +120,5 @@ const omed = {
 </p>
 
 ---
-
+## Dev Wisdom
 <sub>Simple things should be simple. Complex things should be possible. - Alan Kay</sub>
