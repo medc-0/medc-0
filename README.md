@@ -37,7 +37,7 @@ I enjoy writing code, and learning by building.
 
 ## What I’m working on
 
-```
+```javascript
 const omed = {
   focus: "frontend development",
   mainStack: ["TypeScript", "React", "Tailwind CSS"],
@@ -120,5 +120,16 @@ const omed = {
 </p>
 
 ---
-## Dev Wisdom
-<sub>Simple things should be simple. Complex things should be possible. - Alan Kay</sub>
+<h3>Dev wisdom</h3>
+
+<p align="center">
+<i>"It's not a bug – it's an undocumented feature."</i>
+<br>
+— Anonymous
+</p>
+
+<br>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=medc-0&color=A7A459&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
