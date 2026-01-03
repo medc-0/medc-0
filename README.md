@@ -36,7 +36,7 @@ Frontend development using **React**, **Typescript**, and **Javascript**
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
-![assembly](https://img.shields.io/badge/Asm-black?style=flat-square&logo=assembly)
+![assembly](https://img.shields.io/badge/asm-black?style=flat-square&logo=gnuemacs)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Frameworks && Libraries
@@ -64,10 +64,11 @@ Frontend development using **React**, **Typescript**, and **Javascript**
 ## GitHub Stats
 
 <p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=medc-0&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=medc-0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=false&icon_color=fa8b00&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medc-0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+    <img height="120px" src="https://github-readme-streak-vercel.vercel.app/?user=medc-0&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.zcy.dev/api?username=medc-0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=medc-0&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=dark" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=medc-0&theme=onedark&column=-1&margin-w=10" />
