@@ -36,7 +36,7 @@ Frontend development using **React**, **Typescript**, and **Javascript**
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
-![assembly](https://img.shields.io/badge/asm-black?style=flat-square&logo=gnuemacs)
+![assembly](https://img.shields.io/badge/asm-black?style=flat-square&logo=assemblyscript)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Frameworks && Libraries
