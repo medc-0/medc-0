@@ -16,56 +16,44 @@
 
 ---
 
-## ╰┈➤ About Me
+## ➤ About Me
 
-Hi, I’m **Omed** a passionate **software developer** and **student** from Germany.  
+Hi, I’m **Omed** a.k.a **Cape** a passionate **software developer** and **student** from Germany.  
 I love building modern web, mobile, and desktop applications with a focus on clean code and elegant design.
 
-## ✦ Currently exploring:
-- low-level Programming with **C++**, **C** 
-- Fullstack development using **React**, **Prisma**, and **PostgreSQL**
+## Currently exploring:
+low level Programming with **C++**, **Assembly x86-64** 
+Frontend development using **React**, **Typescript**, and **Javascript**
 
- # ✦ Open for collaboration & opportunities — feel free to reach out! ✦
+ # I'm Open for collaboration && opportunities feel free to reach out!
 
 ---
 
 ## Tech Stacks
 
-### ╰┈➤ Languages
+### Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
-![swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift)
+![assembly](https://img.shields.io/badge/Asm-black?style=flat-square&logo=assembly)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
-### ╰┈➤ Frameworks & Libraries
-![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+### Frameworks && Libraries
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma)
-![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
-![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
 ![expo](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
 ![socket.io](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
-![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 
-### ╰┈➤ DevOps & Tools
+### DevOps && Tools
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
-![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
-![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
-![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
-![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
 ![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
-![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
@@ -73,7 +61,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=medc-0&hide_border=true&theme=dark" />
@@ -87,7 +75,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 ---
 
-## ⭐ My Projects
+## My Projects
 
 <!-- Project Summmary -->
 <details>
@@ -116,10 +104,12 @@ I love building modern web, mobile, and desktop applications with a focus on cle
   </p>
 </details>
 
+<!--
 <details>
   <summary><b>📱 Mobile</b></summary>
   <p align="center">Coming soon...</p>
 </details>
+-->
 
 <details>
   <summary><b>🖥️ Desktop</b></summary>
@@ -141,5 +131,6 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 
 <details>
   <summary><b>💻 APIs</b></summary>
-  <p align="center">Coming soon...</p>
+  <p align="center">Working on a Maths / Phyiscs Library in C++ (work in progress)</p>
+  <p align="center">Making a Rendering / Graphics API (haven't started yet)</p>
 </details>
