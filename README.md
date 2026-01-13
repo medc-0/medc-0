@@ -25,7 +25,7 @@ I love building modern web, mobile, and desktop applications with a focus on cle
 low level Programming with **C++**, **Assembly x86-64** 
 Frontend development using **React**, **Typescript**, and **Javascript**
 
- # I'm Open for collaboration && opportunities feel free to reach out!
+# I'm Open for collaboration && opportunities feel free to reach out!
 
 ---
 
