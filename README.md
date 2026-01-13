@@ -18,8 +18,10 @@
 
 ## About Me
 
-Hi, I’m **Omed** a.k.a **Cape** a passionate **software developer** and **student** from Germany.  
-I love building modern web, mobile, and desktop applications with a focus on clean code and elegant design.
+Hi, I’m **Omed** a.k.a **Cape** a passionate **software developer** and **student**.  
+I love building modern web, mobile, and desktop applications with a focus on performance and design. I have been programming JavaScript for 1.2 years and have been working with React for over 3 months and have developed some applications. Also, As a React developer, I have the skills and experience to create high quality, cross platform apps that deliver an amazing user experience. With React, I can create apps that are fast, responsive, and look great on all devices. If you're looking for a talented React developer to build your next app, I would be happy to chat with you about your project.
+
+--> **You can contact me at omedsafi268@gmail.com**
 
 ## Tech Stacks
 
