@@ -16,28 +16,18 @@
 
 ---
 
-## ➤ About Me
+## About Me
 
 Hi, I’m **Omed** a.k.a **Cape** a passionate **software developer** and **student** from Germany.  
 I love building modern web, mobile, and desktop applications with a focus on clean code and elegant design.
-
-## Currently exploring:
-low level Programming with **C++**, **Assembly x86-64** 
-Frontend development using **React**, **Typescript**, and **Javascript**
-
-# I'm Open for collaboration && opportunities feel free to reach out!
-
----
 
 ## Tech Stacks
 
 ### Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
-![assembly](https://img.shields.io/badge/asm-black?style=flat-square&logo=assemblyscript)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Frameworks && Libraries
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
@@ -58,23 +48,6 @@ Frontend development using **React**, **Typescript**, and **Javascript**
 ![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
-
----
-
-## GitHub Stats
-
-<p align="center">
-    <img height="120px" src="https://github-readme-streak-vercel.vercel.app/?user=medc-0&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.zcy.dev/api?username=medc-0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=medc-0&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=dark" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medc-0&theme=onedark&column=-1&margin-w=10" />
-</p>
-
----
 
 ## My Projects
 
@@ -103,35 +76,4 @@ Frontend development using **React**, **Typescript**, and **Javascript**
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=PERN-Modern-Store&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
-</details>
-
-<!--
-<details>
-  <summary><b>📱 Mobile</b></summary>
-  <p align="center">Coming soon...</p>
-</details>
--->
-
-<details>
-  <summary><b>🖥️ Desktop</b></summary>
-  <p align="center">Coming soon...</p>
-</details>
-
-<details>
-  <summary><b>⚙️ CLI'S</b></summary>
-    <br/>
-  <p align="center">
-    <a href="https://github.com/medc-0/Devradar-cli">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Devradar-cli&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/medc-0/Sysmentor-CLI">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Sysmentor-CLI&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>💻 APIs</b></summary>
-  <p align="center">Working on a Maths / Phyiscs Library in C++ (work in progress)</p>
-  <p align="center">Making a Rendering / Graphics API (haven't started yet)</p>
 </details>
