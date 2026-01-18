@@ -19,7 +19,7 @@
 ## About Me
 
 Hi, I’m **Omed** a.k.a **Cape** a passionate **software developer** and **student**.  
-I love building modern web, mobile, and desktop applications with a focus on performance and design. I have been programming JavaScript for 1.2 years and have been working with React for over 3 months and have developed some applications. With React, I can create apps that are responsive, and look great on all devices. If you're looking for a React developer to build your next app, I would be happy to chat with you about your project.
+I love building modern web, applications with a focus on performance and design. I have been programming JavaScript for 1.2 years and have been working with React for over 3 months and have developed some applications. With React, I can create apps that are responsive, and look great on all devices. If you're looking for a React developer to build your next app, I would be happy to chat with you about your project.
 
 --> **You can contact me at omedsafi268@gmail.com**
 
