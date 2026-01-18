@@ -55,27 +55,11 @@ I love building modern web, applications with a focus on performance and design.
 
 <!-- Project Summmary -->
 <details>
-  <summary><b>🛡️ Discord</b></summary>
-     <br/>
-  <p align="center">
-    <a href="https://github.com/medc-0/global-skillbot-discord">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=global-skillbot-discord&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/medc-0/Discord-Counting-bot">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Discord-Counting-bot&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
-<details>
   <summary><b>🌐 Web Apps</b></summary>
    <br/>
   <p align="center">
     <a href="https://github.com/medc-0/Educards-flashcards">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=Educards-flashcards&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/medc-0/PERN-Modern-Store">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=medc-0&repo=PERN-Modern-Store&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>
