@@ -18,8 +18,10 @@
 
 ## About Me
 
-Hi, I’m **Omed** a.k.a **Med** a passionate **software developer** and **student**.  
-I Enjoy building modern web, applications with a focus on performance and design. I have been programming JavaScript for 1.2 years and have been working with React for over 3 months and have developed some applications. With React, I can create apps that are responsive, and look great on all devices. If you're looking for a React developer to build your next app, I would be happy to chat with you about your project.
+Hi, I'm **Omed** a.k.a **Med** a passionate **software developer** and **student**.
+I have around **1.2 years of experience with JavaScript and static web development**. Most of my work is focused on the frontend where I care a lot about **UI, performance and responsiveness**. I'm currently **learning React** to build bigger and more scalable web apps and to better understand how real production apps are structured.
+Besides web development I also enjoy working on more technical projects.  
+I write **small engines** using **LWJGL / OpenGL**, which helps me learn about rendering, performance, and low level systems.
 
 **You can contact me at omedsafi268@gmail.com**
 
@@ -28,7 +30,7 @@ I Enjoy building modern web, applications with a focus on performance and design
 ### Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![java](https://img.shields.io/badge/python-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
 
 ### Frameworks && Libraries
