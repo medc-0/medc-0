@@ -30,7 +30,7 @@ I write **minimal engines** using **OpenGL / C++**, which helps me learn about r
 ### Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![java](https://img.shields.io/badge/python-black?style=flat-square&logo=java)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
 
 ### Frameworks && Libraries
