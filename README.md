@@ -21,7 +21,7 @@
 Hi, I am **Omed**, also known as **Med**. I am a 16 year old developer and student who is still learning and improving every day.
 I currently focus mainly on **TypeScript and Java**. I use **TypeScript** for frontend development and building scalable web applications. I care a lot about clean UI, performance, and writing code that is structured and easy to maintain.
 
-I use **Java** for backend development with **Spring Boot** and also for more technical projects with **LWJGL**. Working with graphics and lower level systems helps me understand how software works beyond just the surface.
+I use **Java** for backend development with **Spring Boot** and also for more technical projects with **LWJGL**. Working with graphics and lower level systems helps me understand how software works entirely.
 
 I am still early in my journey, but I enjoy building real projects, learning new concepts, and pushing myself to get better every month.
 
@@ -36,16 +36,12 @@ You can contact me at **omedsafi268@gmail.com**
 ### Frameworks && Libraries
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
-![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
-![expo](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
-![socket.io](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
+![springboot](https://custom-icon-badges.herokuapp.com/badge/springboot-black.svg?logo=springboot&logoColor=white&style=flat-square)
+![lwjgl](https://img.shields.io/badge/lwjgl-black?style=flat-square&logo=lwjgl)
+![express.js](https://img.shields.io/badge/express.js-black?style=flat-square&logo=express.js)
 
 ### DevOps && Tools
-![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
-![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
@@ -55,7 +51,6 @@ You can contact me at **omedsafi268@gmail.com**
 
 ## My Projects
 
-<!-- Project Summmary -->
 <details>
   <summary><b>🌐 Web Apps</b></summary>
    <br/>
