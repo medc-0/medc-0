@@ -18,12 +18,14 @@
 
 ## About Me
 
-Hi, I'm **Omed** a.k.a **Med** a passionate **software developer** and **student**.
-I have around **1.2 years of experience with JavaScript and static web development**. Most of my work is focused on the frontend where I care a lot about **UI, performance and responsiveness**. I'm currently **learning React** to build bigger and more scalable web apps and to better understand how real production apps are structured.
-Besides web development I also enjoy working on more technical projects.  
-I'm currently working on small **engines** using **OpenGL / C**, which helps me learn about rendering, performance, and low level systems.
+Hi, I am **Omed**, also known as **Med**. I am a 16 year old developer and student who is still learning and improving every day.
+I currently focus mainly on **TypeScript and Java**. I use **TypeScript** for frontend development and building scalable web applications. I care a lot about clean UI, performance, and writing code that is structured and easy to maintain.
 
-**You can contact me at omedsafi268@gmail.com**
+I use **Java** for backend development with **Spring Boot** and also for more technical projects with **LWJGL**. Working with graphics and lower level systems helps me understand how software works beyond just the surface.
+
+I am still early in my journey, but I enjoy building real projects, learning new concepts, and pushing myself to get better every month.
+
+You can contact me at **omedsafi268@gmail.com**
 
 ## Tech Stacks
 
