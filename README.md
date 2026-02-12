@@ -29,9 +29,7 @@ I'm currently working on small **engines** using **OpenGL / C**, which helps me 
 
 ### Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java)
 
 ### Frameworks && Libraries
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
