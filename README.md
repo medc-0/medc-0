@@ -29,7 +29,7 @@ I'm currently working on small **engines** using **OpenGL / C**, which helps me 
 
 ### Languages
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![java](https://img.shields.io/badge/java-black?style=flat-square&logo=java)
+![java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
 
 ### Frameworks && Libraries
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
