@@ -40,13 +40,14 @@ You can contact me at **omedsafi268@gmail.com**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot)
 ![LWJGL](https://img.shields.io/badge/LWJGL-black?style=flat-square&logo=opengl)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellijidea)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
+### DevOps && Tools
+![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
+![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
+![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
+![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
+![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
+![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
+![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 
 ## My Projects
 
