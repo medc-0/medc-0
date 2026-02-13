@@ -19,7 +19,7 @@
 ## About Me
 
 Hi, I am **Omed**, also known as **Med**. I am a 16 year old developer and student who is still learning and improving every day.
-I currently focus mainly on **TypeScript and Java**. I use **TypeScript** for frontend development and building scalable web applications. I care a lot about clean UI, performance, and writing code that is structured and easy to maintain.
+I currently focus mainly on **TypeScript and Java**. I use **TypeScript** for frontend development and building scalable web applications. I care a lot about clean UI, performance, and writing code that is structured and easy to maintain and extend.
 
 I use **Java** for backend development with **Spring Boot** and also for more technical projects with **LWJGL**. Working with graphics and lower level systems helps me understand how software works entirely.
 
@@ -31,7 +31,7 @@ You can contact me at **omedsafi268@gmail.com**
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
@@ -55,8 +55,9 @@ You can contact me at **omedsafi268@gmail.com**
   <summary><b>🌐 Web Apps</b></summary>
    <br/>
   <p align="center">
-    <a href="https://github.com/omedcodes/Educards-flashcards">
+    <p>Coming soon</p>
+    <!-- <a href="https://github.com/omedcodes/Educards-flashcards">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=omedcodes&repo=Educards-flashcards&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
+    </a> -->
   </p>
 </details>
