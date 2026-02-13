@@ -31,7 +31,7 @@ You can contact me at **omedsafi268@gmail.com**
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
