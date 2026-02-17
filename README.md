@@ -37,7 +37,7 @@ You can contact me at **omedsafi268@gmail.com**
 
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot)
-![OpenGL](https://img.shields.io/badge/LWJGL-black?style=flat-square&logo=opengl)
+![OpenGL](https://img.shields.io/badge/opengl-black?style=flat-square&logo=opengl)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
 ![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
@@ -60,6 +60,7 @@ You can contact me at **omedsafi268@gmail.com**
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
 ![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
 ![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
+![gmail](https://custom-icon-badges.herokuapp.com/badge/gmail-black.svg?logo=gmail&logoColor=blue&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
@@ -69,6 +70,7 @@ You can contact me at **omedsafi268@gmail.com**
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![firebase](https://img.shields.io/badge/firebase-black?style=flat-square&logo=firebase)
+![supabase](https://img.shields.io/badge/supabase-black?style=flat-square&logo=supabase)
 ![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 
