@@ -18,20 +18,20 @@
 
 ## About Me
 
-Hi, I am **Omed**, also known as **Med**. I am a 16 year old developer and student who is still learning and improving every day.
+Hi, I am **Omed** I am a 16 year old developer and student who is still learning and improving every day.
 I currently focus mainly on **TypeScript and Java**. I use **TypeScript** for frontend development and building scalable web applications. I care a lot about clean UI, performance, and writing code that is structured and easy to maintain and extend.
 
-I use **Java** for backend development with **Spring Boot** and also for more technical projects with **LWJGL**. Working with graphics and lower level systems helps me understand how software works entirely.
-
-I am still early in my journey, but I enjoy building real projects, learning new concepts, and pushing myself to get better every month.
+I am still early in my journey, but I enjoy building projects, learning new concepts, and pushing myself to get better every month.
 
 You can contact me at **omedsafi268@gmail.com**
 
 ## Tech Stacks
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
+![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
+![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
@@ -40,7 +40,7 @@ You can contact me at **omedsafi268@gmail.com**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot)
 ![LWJGL](https://img.shields.io/badge/LWJGL-black?style=flat-square&logo=opengl)
 
-### DevOps && Tools
+### DevOps and Tools
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
 ![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
