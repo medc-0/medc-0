@@ -39,6 +39,7 @@ You can contact me at **omedsafi268@gmail.com**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot)
 ![OpenGL](https://img.shields.io/badge/opengl-black?style=flat-square&logo=opengl)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
+![vue](https://img.shields.io/badge/vue-black?style=flat-square&logo=vuejs)
 ![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
